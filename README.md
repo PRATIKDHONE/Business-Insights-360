@@ -48,3 +48,21 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 ![data model 360](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f6f9c3d8-b9b8-4735-97a2-97fc836fb236)
 
+
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+* Info
+* Finance View
+* Sales View
+* Marketing View
+* Supply chain View
+* Executive View
+* Products
+* Support
+
+## Business Insights 360 Home Page
+![insight 360 home](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f5185bb6-b01f-4ff9-a913-6529737cb25c)
+
+  
