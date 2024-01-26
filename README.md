@@ -16,23 +16,23 @@ Project kick off session, where you should get clear of for what and why this pr
 
 
 ## PowerBI techniques Learnt
-[x] What are all the questions should be asked before staring the project
-[x] Creating calculated columns
-[x] creating measure using DAX language
-[x] Data modeling
-[x] Using Bookmarks to switch between two visuals
-[x] Page navigation with buttons
-[x] Using divide function to prevent zero division errors
-[x] creating date table using m language
-[x] Dynamic titles based on the applied filters
-[x] Using KPI indicators
-[x] Conditional formatting the values in visuals using icons or background color
-[x] Data validation techniques
-[x] PowerBi services
-[x] Publishing reports to PowerBi services
-[x] Setting up personal gateway to set up the auto refresh of data
-[x] PowerBi App creation
-[x] Collaboration, workspace, access permissions in PowerBi services
+- [x] What are all the questions should be asked before staring the project
+- [x] Creating calculated columns
+- [x] creating measure using DAX language
+- [x] Data modeling
+- [x] Using Bookmarks to switch between two visuals
+- [x] Page navigation with buttons
+- [x] Using divide function to prevent zero division errors
+- [x] creating date table using m language
+- [x] Dynamic titles based on the applied filters
+- [x] Using KPI indicators
+- [x] Conditional formatting the values in visuals using icons or background color
+- [x] Data validation techniques
+- [x] PowerBi services
+- [x] Publishing reports to PowerBi services
+- [x] Setting up personal gateway to set up the auto refresh of data
+- [x] PowerBi App creation
+- [x] Collaboration, workspace, access permissions in PowerBi services
 
 
 
@@ -42,9 +42,9 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 
 ## Data Model
-Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-Poor data modeling affects the over all performance of the report.
-In this project, we have followed Snowfall data modeling method.
+- *.* Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+*.* Poor data modeling affects the over all performance of the report.
+"." In this project, we have followed Snowfall data modeling method.
 
 ![data model 360](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f6f9c3d8-b9b8-4735-97a2-97fc836fb236)
 
