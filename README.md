@@ -3,7 +3,7 @@
 ## Project Overview
 AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
 
-## Company’s back ground
+## Company’s Details
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
@@ -16,24 +16,24 @@ Project kick off session, where you should get clear of for what and why this pr
 
 
 ## PowerBI techniques Learnt
-What are all the questions should be asked before staring the project
-Creating calculated columns
-creating measure using DAX language
-Data modeling
-Using Bookmarks to switch between two visuals
-Page navigation with buttons
-Using divide function to prevent zero division errors
-creating date table using m language
-Dynamic titles based on the applied filters
-Using KPI indicators
-Conditional formatting the values in visuals using icons or background color
-Data validation techniques
-PowerBi services
-Publishing reports to PowerBi services
-Setting up personal gateway to set up the auto refresh of data
-PowerBi App creation
-Collaboration, workspace, access permissions in PowerBi services
-And Many More
+[x] What are all the questions should be asked before staring the project
+[x] Creating calculated columns
+[x] creating measure using DAX language
+[x] Data modeling
+[x] Using Bookmarks to switch between two visuals
+[x] Page navigation with buttons
+[x] Using divide function to prevent zero division errors
+[x] creating date table using m language
+[x] Dynamic titles based on the applied filters
+[x] Using KPI indicators
+[x] Conditional formatting the values in visuals using icons or background color
+[x] Data validation techniques
+[x] PowerBi services
+[x] Publishing reports to PowerBi services
+[x] Setting up personal gateway to set up the auto refresh of data
+[x] PowerBi App creation
+[x] Collaboration, workspace, access permissions in PowerBi services
+
 
 
 ## Importing data into PowerBi
