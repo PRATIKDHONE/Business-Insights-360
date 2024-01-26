@@ -42,9 +42,9 @@ As the database is MySQL in this project, we need to import the datasets from My
 
 
 ## Data Model
-- *.* Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-*.* Poor data modeling affects the over all performance of the report.
-"." In this project, we have followed Snowfall data modeling method.
+- * Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- * Poor data modeling affects the over all performance of the report.
+- * In this project, we have followed Snowfall data modeling method.
 
 ![data model 360](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f6f9c3d8-b9b8-4735-97a2-97fc836fb236)
 
