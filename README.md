@@ -46,10 +46,9 @@ As the database is MySQL in this project, we need to import the datasets from My
 - * Poor data modeling affects the over all performance of the report.
 - * In this project, we have followed Snowfall data modeling method.
 
-    
-https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Data%20Model%20View%20360.png
-![data model 360](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f6f9c3d8-b9b8-4735-97a2-97fc836fb236)
 
+    
+![data model](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Data%20Model%20View%20360.png)
 
 
 ## Home view
@@ -65,6 +64,31 @@ In Home view, all the views button will be available. User will land on specific
 * Support
 
 ## Business Insights 360 Home Page
-![insight 360 home](https://github.com/PRATIKDHONE/Business-Insights-360/assets/123533591/f5185bb6-b01f-4ff9-a913-6529737cb25c)
+![insight 360 home](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/insight%20360%20home.png)
 
-  
+
+
+
+
+ ## Finance View 
+![Finance view](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Finance%20View%20360.png)
+
+
+
+
+## Sales View
+![Sales View](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Sales%20View%20360.png)
+
+
+
+## Marketing View
+![Marketing View](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Marketing%20view%20360.png )
+
+## Supply Chain View
+![Supply Chain View](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Supply%20Chain%20View%20360.png)
+
+## Executive View
+![Supply Chain View](https://github.com/PRATIKDHONE/Business-Insights-360/blob/main/Resources/Executive%20View%20360.png)
+
+
+Project Live Dashboard View [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMjllNDc3ZTItZDBlMy00MWJmLWE5ZDMtZDBmYjZhYzVhZmUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
