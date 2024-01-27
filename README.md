@@ -92,3 +92,5 @@ In Home view, all the views button will be available. User will land on specific
 
 
 Project Live Dashboard View [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMjllNDc3ZTItZDBlMy00MWJmLWE5ZDMtZDBmYjZhYzVhZmUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+Link to :- [Presentation Video](https://www.linkedin.com/posts/activity-7156967212728123392-aWhi?utm_source=share&utm_medium=member_desktop)
